@@ -11,3 +11,6 @@ github_username: 24juanb
 theme: minima
 plugins:
   - jekyll-feed
+
+# Add this line to control post URLs
+permalink: /:year/:month/:day/:title.html
